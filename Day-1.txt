@@ -1,0 +1,24 @@
+#Git command
+
+How to initialize the git
+git init
+git clone GIT_URL
+
+# to see the current status
+git status 
+
+#to add this file 
+
+git add .
+
+# to send the file to local repo
+
+git commit -m 'Commit Messege'
+
+# to see the git branc
+
+git branch
+
+#Send it to remote repo
+
+git push origin BranchName
