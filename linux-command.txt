@@ -1,0 +1,12 @@
+ls
+mkdir test
+touch file.txt
+nano file.txt
+cat file.txt
+cat > file.txt
+cat >> file.txt
+
+vi file.txt
+vim file.txt
+more file.txt
+less file.txt
